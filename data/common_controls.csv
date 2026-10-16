@@ -1,0 +1,3 @@
+cc_id,name_ko,name_en,description,category
+CC-AC-03,접근권한 정기 검토,Periodic access review,부여된 접근권한이 업무에 필요한 범위인지 주기적으로 검토하고 결과에 따라 조치한다,AC
+CC-BK-01,백업 및 복구 관리,Backup and recovery,백업 대상·주기·보관 방법을 정하고 복구 테스트로 백업의 유효성을 확인한다,BK

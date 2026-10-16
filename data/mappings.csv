@@ -1,0 +1,5 @@
+framework_id,control_id,cc_id,relation,gap_note,rationale,status,reviewed_at
+isms-p,2.5.6,CC-AC-03,equal,,항목이 접근권한의 정기 검토와 조치를 다루므로 공통 통제와 범위가 같음,draft,
+iso27001-2022,A.5.18,CC-AC-03,contains,권한 부여·변경·회수 절차는 공통 통제 범위 밖이므로 별도 공통 통제로 확인 필요,통제가 권한 부여부터 검토·회수까지 포함하며 정기 검토는 그 일부임,draft,
+isms-p,2.9.3,CC-BK-01,equal,,백업 정책 수립과 복구 테스트를 함께 요구하므로 공통 통제와 범위가 같음,draft,
+iso27001-2022,A.8.13,CC-BK-01,equal,,백업 유지와 정기적 테스트를 요구하므로 공통 통제와 범위가 같음,draft,
