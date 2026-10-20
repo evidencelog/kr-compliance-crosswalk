@@ -27,7 +27,7 @@ CC-PH-01,보호구역 지정 및 출입통제,Secure areas and physical entry,�
 CC-PH-02,정보시스템 및 보호설비 보호,Equipment and supporting utilities,"정보시스템을 안전하게 배치하고 전원·공조·소방 등 보호설비와 케이블, 유지보수를 관리한다",PH
 CC-PH-03,보호구역 내 작업 및 반출입 통제,Work in secure areas and asset movement,보호구역 내 작업을 승인·기록하고 장비의 반출입을 통제한다,PH
 CC-PH-04,업무환경 보안,Clear desk and clear screen,"책상 위 문서와 화면, 공용 장비를 통한 정보 노출을 방지한다",PH
-CC-AC-01,계정 및 식별자 관리,Account and identity management,사용자 계정을 승인 절차에 따라 발급·변경·삭제하고 고유 식별자를 부여한다,AC
+CC-AC-01,계정 및 식별자 관리,Account and identity management,사용자 계정과 접근권한을 승인 절차에 따라 부여·변경·회수하고 사용자별 고유 식별자를 부여한다,AC
 CC-AC-02,사용자 인증 및 인증정보 관리,Authentication and credentials,안전한 인증 수단을 적용하고 비밀번호 등 인증정보의 생성·관리 기준을 정한다,AC
 CC-AC-03,접근권한 정기 검토,Periodic access review,부여된 접근권한이 업무에 필요한 범위인지 주기적으로 검토하고 결과에 따라 조치한다,AC
 CC-AC-04,특수 계정 및 권한 관리,Privileged access management,"관리자 등 특수 계정과 권한, 특수 유틸리티 사용을 최소화하고 별도로 통제한다",AC
