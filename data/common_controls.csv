@@ -46,16 +46,18 @@ CC-DV-07,외주 개발 보안,Outsourced development,외주 개발 시 보안 �
 CC-OP-01,변경관리 및 구성관리,Change and configuration management,정보시스템 변경을 승인·기록하고 보안 설정 기준을 유지한다,OP
 CC-OP-02,성능 및 장애관리,Capacity and fault management,용량·성능을 모니터링하고 장애를 탐지·기록·조치한다,OP
 CC-OP-03,로그 및 접속기록 관리,Logging,보존 대상 로그와 접속기록을 정하고 위·변조되지 않게 보관한다,OP
-CC-OP-04,로그 점검 및 이상행위 모니터링,Log review and monitoring,로그와 접속기록을 주기적으로 점검하고 이상행위를 분석·대응한다,OP
+CC-OP-04,로그 및 접속기록 점검,Log review,"로그와 접속기록을 정해진 주기로 점검해 비인가 접근, 오류, 정책 위반 여부를 확인한다",OP
 CC-OP-05,시간 동기화,Clock synchronization,정보시스템 시각을 표준 시각과 동기화한다,OP
 CC-OP-06,보안시스템 운영,Security system operations,방화벽·IPS 등 보안시스템의 정책을 관리하고 주기적으로 검토한다,OP
 CC-OP-07,공개서버 및 전자거래 보안,Public-facing and e-commerce services,외부 공개 서버와 전자거래·핀테크 서비스에 보호대책을 적용한다,OP
 CC-OP-08,정보전송 보안,Information transfer,조직 내외부 정보 전송 시 안전한 방식과 협약을 적용한다,OP
 CC-OP-09,업무용 단말기 보안,Endpoint security,PC·모바일 등 업무용 단말기의 보안 설정과 사용을 통제한다,OP
-CC-OP-10,패치 및 기술적 취약점 관리,Patch and vulnerability management,보안 패치를 적용하고 정기 취약점 점검 결과를 조치한다,OP
+CC-OP-10,패치 관리,Patch management,OS·소프트웨어 보안 패치를 수시로 확인해 영향도 검토 후 적용하고 적용 현황을 관리한다,OP
 CC-OP-11,악성코드 통제,Malware protection,악성코드 탐지·차단 수단을 운영하고 감염 시 대응한다,OP
 CC-OP-12,데이터 마스킹 및 유출 방지,Data masking and leakage prevention,중요 정보를 마스킹하고 유출 경로를 탐지·차단한다,OP
 CC-OP-13,감사 시 정보시스템 보호,Protection during audit testing,점검·감사 활동이 운영 시스템에 주는 영향을 통제한다,OP
+CC-OP-14,취약점 점검 및 조치,Vulnerability assessment and remediation,정해진 주기(연 1회 이상)로 기술적 취약점을 점검하고 결과에 따라 조치·이행 점검한다,OP
+CC-OP-15,이상행위 분석 및 모니터링,Anomaly analysis and monitoring,여러 로그와 이벤트를 연계 분석해 이상행위를 탐지하고 판단 기준에 따라 대응한다,OP
 CC-IR-01,사고 예방 및 대응체계 구축,Incident management framework,사고 대응 조직·절차·보고 체계를 수립하고 이벤트 보고 경로를 운영한다,IR
 CC-IR-02,사고 대응 훈련 및 개선,Incident exercises and lessons learned,사고 대응 훈련을 실시하고 사고 결과를 분석해 절차를 개선한다,IR
 CC-IR-03,사고 대응 및 복구,Incident response and evidence,사고를 판단·대응·복구하고 필요한 증거를 수집·보존한다,IR
