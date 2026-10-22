@@ -71,11 +71,11 @@ A.5.18    ->  2.5.6     CC-AC-03   A.5.18을 충족하면 2.5.6도 충족 (단�
 
 ## 로드맵
 
-- [ ] **v0.1** ISMS-P 101개 항목 ↔ ISO/IEC 27001:2022 부속서 A 93개 통제
+- [x] **v0.1** ISMS-P 101개 항목 ↔ ISO/IEC 27001:2022 부속서 A 93개 통제
 - [ ] **v0.2** CSAP, ISO/IEC 27017 확장
 - [ ] **v0.3** 검색 가능한 웹 페이지 공개
 
-현재 진행 상황: 두 기준의 항목 목록(ISMS-P 101개, ISO 27001:2022 93개)을 수록했고, 대응은 예시 4건만 `draft` 상태로 들어 있습니다. 진행률은 `python scripts/crosswalk.py validate`로 확인할 수 있습니다.
+현재 진행 상황: ISMS-P 101개, ISO 27001:2022 93개 항목 전체를 공통 통제 88개에 대응했습니다(v0.1 데이터 완료, 일부 검토 중). 설계 결정은 [docs/decisions](docs/decisions)에 기록합니다. 진행률은 `python scripts/crosswalk.py validate`로 확인할 수 있습니다.
 
 ## 주의
 
