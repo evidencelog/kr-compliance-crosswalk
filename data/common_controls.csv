@@ -1,14 +1,18 @@
 cc_id,name_ko,name_en,description,category
 CC-GV-01,경영진 책임 및 정보보호 조직,Leadership and security organization,경영진이 관리체계에 참여하고 최고책임자와 실무 조직을 지정해 역할과 책임을 운영한다,GV
-CC-GV-02,관리체계 범위 및 자원 할당,ISMS scope and resources,관리체계 적용 범위를 정하고 운영에 필요한 인력·예산을 확보한다,GV
+CC-GV-02,관리체계 범위 설정,ISMS scope,"관리체계 적용 범위를 정하고 핵심 서비스와 자산, 예외 사항을 문서화한다",GV
 CC-GV-03,정보보호 정책 및 운영 절차,Policies and operating procedures,정책·지침·절차를 수립하고 승인·배포하며 주기적으로 검토·개정한다,GV
-CC-GV-04,위험 평가 및 보호대책 선정,Risk assessment and treatment,위협과 취약점을 기준으로 위험을 평가하고 수용 수준에 따라 보호대책을 선정한다,GV
+CC-GV-04,위험 평가,Risk assessment,위험 평가 방법과 기준을 정하고 정기적으로 위험을 식별·분석·평가해 수용 수준을 결정한다,GV
 CC-GV-05,보호대책 이행 및 운영현황 관리,Control implementation and tracking,선정한 보호대책을 구현하고 담당 부서와 공유하며 운영 현황을 주기적으로 관리한다,GV
 CC-GV-06,법적 요구사항 준수,Legal and regulatory compliance,적용 법규·계약 요구사항을 식별하고 준수 여부를 주기적으로 검토한다,GV
 CC-GV-07,관리체계 독립적 점검,Independent review of the ISMS,독립성과 전문성을 갖춘 인력이 정기적으로 관리체계 운영과 정책 준수를 점검한다,GV
 CC-GV-08,프로젝트 관리 시 정보보호,Security in project management,프로젝트 단계별로 정보보호 요구를 반영한다,GV
 CC-GV-09,대외 협력 및 위협 정보 활용,External contacts and threat intelligence,관계 기관·전문 단체와 연락 체계를 유지하고 위협 정보를 수집·활용한다,GV
 CC-GV-10,관리체계 개선,ISMS improvement,점검·감사·사고에서 발견한 문제의 원인을 분석해 재발방지 대책을 수립·이행하고 효과를 확인한다,GV
+CC-GV-11,자원 할당,Resources,관리체계 운영에 필요한 인력과 예산 등 자원을 확보·할당한다,GV
+CC-GV-12,보호대책 선정 및 위험 처리 계획,Risk treatment,위험 처리 방안과 보호대책을 선정해 이행계획을 수립하고 경영진 승인을 받는다,GV
+CC-GV-13,조직 상황 및 이해관계자 요구 파악,Context and interested parties,관리체계에 영향을 주는 내부·외부 이슈와 이해관계자의 요구를 파악한다,GV
+CC-GV-14,정보보호 목표 및 변경 계획,Objectives and planning of changes,측정 가능한 정보보호 목표와 달성 계획을 세우고 관리체계 변경을 계획적으로 수행한다,GV
 CC-AM-01,정보자산 식별 및 관리,Asset inventory and ownership,정보자산을 식별해 목록과 책임자를 관리하고 허용된 사용 기준을 정한다,AM
 CC-AM-02,정보 분류 및 표시,Information classification and labelling,정보를 중요도에 따라 분류하고 등급을 표시해 취급 기준을 적용한다,AM
 CC-AM-03,서비스 현황 및 정보 흐름 분석,Service and data flow analysis,서비스·업무 현황과 개인정보를 포함한 정보 흐름을 파악해 문서화한다,AM

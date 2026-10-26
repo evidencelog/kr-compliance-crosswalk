@@ -1,3 +1,4 @@
 framework_id,name,version,issuer,source_url,note
 isms-p,ISMS-P,2023-10-31,KISA,https://isms.kisa.or.kr,2023-10-31 고시 기준(2차 자료 대조). 항목 번호와 제목만 수록
 iso27001-2022,ISO/IEC 27001:2022 Annex A,2022,ISO/IEC,https://www.iso.org/standard/27001,원문 미전재. 통제 번호와 영문 제목만 수록. title_ko는 KS 공식 번역이 아닌 자체 요약 번역
+iso27001-2022-clauses,ISO/IEC 27001:2022 Clauses 4-10,2022,ISO/IEC,https://www.iso.org/standard/27001,"본문 요구 조항. 원문 미전재, 조항 번호와 영문 제목만 수록. title_ko는 자체 번역"
