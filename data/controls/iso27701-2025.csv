@@ -1,0 +1,79 @@
+control_id,domain,title_ko,title_en
+A.1.2.2,A.1 PII controllers,처리 목적 식별·문서화,Identify and document purpose
+A.1.2.3,A.1 PII controllers,적법 근거 식별,Identify lawful basis
+A.1.2.4,A.1 PII controllers,동의 필요 여부 결정,Determine consent
+A.1.2.5,A.1 PII controllers,동의 획득·기록,Obtain and record consent
+A.1.2.6,A.1 PII controllers,개인정보 영향평가,Privacy impact assessment
+A.1.2.7,A.1 PII controllers,수탁자와의 계약,Contracts with PII processors
+A.1.2.8,A.1 PII controllers,공동 처리자,Joint PII controller
+A.1.2.9,A.1 PII controllers,처리 기록,Records of processing PII
+A.1.3.2,A.1 PII controllers,정보주체에 대한 의무,Obligations to PII principals
+A.1.3.3,A.1 PII controllers,정보주체에게 제공할 정보,Information for PII principals
+A.1.3.4,A.1 PII controllers,정보 제공,Providing information
+A.1.3.5,A.1 PII controllers,동의 변경·철회,Modify or withdraw consent
+A.1.3.6,A.1 PII controllers,처리 반대,Object to PII processing
+A.1.3.7,A.1 PII controllers,열람·정정·삭제,"Access, correction or erasure"
+A.1.3.8,A.1 PII controllers,제3자 통보,Inform third parties
+A.1.3.9,A.1 PII controllers,개인정보 사본 제공,Providing copy of PII
+A.1.3.10,A.1 PII controllers,요청 처리,Handling requests
+A.1.3.11,A.1 PII controllers,자동화된 의사결정,Automated decision making
+A.1.4.2,A.1 PII controllers,수집 제한,Limit collection
+A.1.4.3,A.1 PII controllers,처리 제한,Limit processing
+A.1.4.4,A.1 PII controllers,정확성과 품질,Accuracy and quality
+A.1.4.5,A.1 PII controllers,개인정보 최소화,PII minimisation
+A.1.4.6,A.1 PII controllers,비식별화와 삭제,De-identification and deletion
+A.1.4.7,A.1 PII controllers,임시 파일,Temporary files
+A.1.4.8,A.1 PII controllers,보유,Retention
+A.1.4.9,A.1 PII controllers,폐기,Disposal
+A.1.4.10,A.1 PII controllers,전송 통제,PII transmission controls
+A.1.5.2,A.1 PII controllers,이전 근거,Basis for PII transfer
+A.1.5.3,A.1 PII controllers,이전 국가,Countries for PII transfer
+A.1.5.4,A.1 PII controllers,이전 기록,Records of PII transfer
+A.1.5.5,A.1 PII controllers,제공 기록,Records of PII disclosures
+A.2.2.2,A.2 PII processors,고객 계약,Customer agreement
+A.2.2.3,A.2 PII processors,조직 목적,Organisation purposes
+A.2.2.4,A.2 PII processors,마케팅·광고,Marketing and advertising
+A.2.2.5,A.2 PII processors,위법한 지시,Infringing instruction
+A.2.2.6,A.2 PII processors,고객 의무,Customer obligations
+A.2.2.7,A.2 PII processors,처리 기록,Records of processing PII
+A.2.3.2,A.2 PII processors,정보주체에 대한 의무,Obligations to PII principals
+A.2.4.2,A.2 PII processors,임시 파일,Temporary files
+A.2.4.3,A.2 PII processors,반환·이전·폐기,"Return, transfer or disposal"
+A.2.4.4,A.2 PII processors,전송 통제,PII transmission controls
+A.2.5.2,A.2 PII processors,이전 근거,Basis for PII transfer
+A.2.5.3,A.2 PII processors,이전 국가,Countries for PII transfer
+A.2.5.4,A.2 PII processors,제공 기록,Records of PII disclosures
+A.2.5.5,A.2 PII processors,제공 요청,PII disclosure requests
+A.2.5.6,A.2 PII processors,법적 구속력 있는 제공,Legally binding disclosures
+A.2.5.7,A.2 PII processors,재수탁자 공개,Disclosure of subcontractors
+A.2.5.8,A.2 PII processors,재수탁자 선정,Engaging subcontractors
+A.2.5.9,A.2 PII processors,재수탁자 변경,Change of subcontractor
+A.3.3,A.3 Shared security controls,정보보호 정책,Information security policies
+A.3.4,A.3 Shared security controls,보안 역할,Security roles
+A.3.5,A.3 Shared security controls,정보 분류,Classification of information
+A.3.6,A.3 Shared security controls,정보 표시,Labelling of information
+A.3.7,A.3 Shared security controls,정보 전송,Information transfer
+A.3.8,A.3 Shared security controls,신원 관리,Identity management
+A.3.9,A.3 Shared security controls,접근 권한,Access rights
+A.3.10,A.3 Shared security controls,공급자 계약,Supplier agreements
+A.3.11,A.3 Shared security controls,사고 관리,Incident management
+A.3.12,A.3 Shared security controls,보안 사고 대응,Security incident response
+A.3.13,A.3 Shared security controls,법적·규제 요구사항,Legal and regulatory requirements
+A.3.14,A.3 Shared security controls,기록 보호,Protection of records
+A.3.15,A.3 Shared security controls,독립적 검토,Independent review
+A.3.16,A.3 Shared security controls,정책 준수,Compliance with policies
+A.3.17,A.3 Shared security controls,보안 인식·교육,Security awareness and training
+A.3.18,A.3 Shared security controls,비밀유지 계약,Confidentiality agreements
+A.3.19,A.3 Shared security controls,책상·화면 정리,Clear desk and clear screen
+A.3.20,A.3 Shared security controls,저장매체,Storage media
+A.3.21,A.3 Shared security controls,장비의 안전한 폐기,Secure disposal of equipment
+A.3.22,A.3 Shared security controls,사용자 단말기,User endpoint devices
+A.3.23,A.3 Shared security controls,안전한 인증,Secure authentication
+A.3.24,A.3 Shared security controls,정보 백업,Information backup
+A.3.25,A.3 Shared security controls,로깅,Logging
+A.3.26,A.3 Shared security controls,암호 사용,Use of cryptography
+A.3.27,A.3 Shared security controls,안전한 개발 생명주기,Secure development life cycle
+A.3.28,A.3 Shared security controls,응용 보안,Application security
+A.3.29,A.3 Shared security controls,안전한 시스템 아키텍처,Secure system architecture
+A.3.30,A.3 Shared security controls,외주 개발,Outsourced development
+A.3.31,A.3 Shared security controls,시험 정보,Test information
