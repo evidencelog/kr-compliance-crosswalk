@@ -1,5 +1,5 @@
 cc_id,name_ko,name_en,description,category
-CC-GV-01,경영진 책임 및 정보보호 조직,Leadership and security organization,경영진이 관리체계에 참여하고 최고책임자와 실무 조직을 지정해 역할과 책임을 운영한다,GV
+CC-GV-01,경영진 리더십 및 경영검토,Leadership and management review,경영진이 관리체계에 참여해 의지를 표명하고 주요 사항을 정기적으로 보고받아 검토·의사결정한다,GV
 CC-GV-02,관리체계 범위 설정,ISMS scope,"관리체계 적용 범위를 정하고 핵심 서비스와 자산, 예외 사항을 문서화한다",GV
 CC-GV-03,정보보호 정책 및 운영 절차,Policies and operating procedures,정책·지침·절차를 수립하고 승인·배포하며 주기적으로 검토·개정한다,GV
 CC-GV-04,위험 평가,Risk assessment,위험 평가 방법과 기준을 정하고 정기적으로 위험을 식별·분석·평가해 수용 수준을 결정한다,GV
@@ -13,6 +13,7 @@ CC-GV-11,자원 할당,Resources,관리체계 운영에 필요한 인력과 예�
 CC-GV-12,보호대책 선정 및 위험 처리 계획,Risk treatment,위험 처리 방안과 보호대책을 선정해 이행계획을 수립하고 경영진 승인을 받는다,GV
 CC-GV-13,조직 상황 및 이해관계자 요구 파악,Context and interested parties,관리체계에 영향을 주는 내부·외부 이슈와 이해관계자의 요구를 파악한다,GV
 CC-GV-14,정보보호 목표 및 변경 계획,Objectives and planning of changes,측정 가능한 정보보호 목표와 달성 계획을 세우고 관리체계 변경을 계획적으로 수행한다,GV
+CC-GV-15,정보보호 조직 및 역할·책임,"Security organization, roles and responsibilities",최고책임자와 실무 조직을 지정·구성하고 구성원의 정보보호 역할·책임·권한을 정의해 유지한다,GV
 CC-AM-01,정보자산 식별 및 관리,Asset inventory and ownership,정보자산을 식별해 목록과 책임자를 관리하고 허용된 사용 기준을 정한다,AM
 CC-AM-02,정보 분류 및 표시,Information classification and labelling,정보를 중요도에 따라 분류하고 등급을 표시해 취급 기준을 적용한다,AM
 CC-AM-03,서비스 현황 및 정보 흐름 분석,Service and data flow analysis,서비스·업무 현황과 개인정보를 포함한 정보 흐름을 파악해 문서화한다,AM
